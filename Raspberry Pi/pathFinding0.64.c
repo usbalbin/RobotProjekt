@@ -1,9 +1,9 @@
 /*Nytt sedan 0.63:
-	* svägningsbestraffning
-	* Bugg:
-	
+	* Turning penalty
+	* Bug:
+		Can not run when compiled using gcc
 	* To Do:
-		* Kontrollera att turnPenaltyCalc fungerar som den ska
+		* Check that turnPenaltyCalc is working correctly
 		
 */
 #include <stdio.h>

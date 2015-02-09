@@ -1,3 +1,4 @@
+//From https://code.google.com/p/arduino-new-ping/
 // ---------------------------------------------------------------------------
 // This example shows how to use NewPing's ping_timer method which uses the Timer2 interrupt to get the
 // ping time. The advantage of using this method over the standard ping method is that it permits a more
